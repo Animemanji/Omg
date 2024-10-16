@@ -390,7 +390,7 @@ export default function Home() {
 
             <div>
               <div className="text-[1.25rem] text-[#212529] font-bold fam">
-                {alldata && <>Random Series</>}
+                {alldata && <>creative Series</>}
               </div>
 
               <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-5 p-4">
